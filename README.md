@@ -1,3 +1,5 @@
+![Image of NBA](https://static.billboard.com/files/2020/03/hand-washing-illo-stock-2020-billboard-1548-1583336340-compressed.jpg)
+
 # Dr. Semmelweis and the Discovery of Handwashing
 
 ## 1. Meet Dr. Ignaz Semmelweis
@@ -27,3 +29,7 @@ In this notebook, we're going to reanalyze the data that made Semmelweis discove
 <p align="center">
  <img width="550" height="350" src=images/proportion_deaths.png>
  </p>
+ 
+ ## 6. The effect of handwashing highlighted
+<p>Starting from the summer of 1847 the proportion of deaths is drastically reduced and, yes, this was when Semmelweis made handwashing obligatory. </p>
+<p>The effect of handwashing is made even more clear if we highlight this in the graph.</p>
