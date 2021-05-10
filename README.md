@@ -1,3 +1,5 @@
+![Image of NBA](https://static.billboard.com/files/2020/03/hand-washing-illo-stock-2020-billboard-1548-1583336340-compressed.jpg)
+
 # Dr. Semmelweis and the Discovery of Handwashing
 
 ## 1. Meet Dr. Ignaz Semmelweis
